@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PBAI</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Projects By AI</h1>
+    <p>Enter your project idea below, and we'll help you break it down into actionable steps.</p>
+    
+    <form id="project-form">
+      <textarea id="input-textarea" placeholder="Describe your project in 1-2 sentences..." required></textarea>
+      <button type="submit" id="convert-idea">Convert Idea</button>
+    </form>
+    
+    <div id="output-section" style="display:none;">
+      <h2>Project Breakdown</h2>
+      <div id="project-breakdown"></div>
+      <button id="download-pdf">Download as PDF</button>
+    </div>
+  </div>
+
+  <div id="loading-spinner" style="display:none;">Loading...</div>
+  <div id="footer-text">@2024 Omar Mostafa</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
