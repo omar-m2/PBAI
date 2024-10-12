@@ -55,7 +55,7 @@ You can check out the live version of the app here: [PBAI](https://pbai-xi.verce
 
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/omar-m2/PBAI>
+    git clone https://github.com/omar-m2/PBAI
     ```
 2. Open index.html in your browser.
 
