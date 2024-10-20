@@ -71,7 +71,7 @@ You can check out the live version of the app here: [PBAI](https://pbai-xi.verce
 
 ## Project Structure
 
-  PBAI/
+    PBAI/
     ├── api/
     |   └── ai21.js
     ├── index.html
