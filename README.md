@@ -55,9 +55,9 @@ You can check out the live version of the app here: [PBAI](https://pbai-xi.verce
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/omar-m2/PBAI
-   ```
+    ```bash
+    git clone <https://github.com/omar-m2/PBAI>
+    ```
 
 2. Open index.html in your browser.
 
@@ -161,4 +161,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Authors
 
-Omar Mostafa - [omar.m.abdelhakim@gmail.com](mailto:omar.m.abdelhakim@gmail.com)
+Omar Mostafa <omar.m.abdelhakim@gmail.com>
