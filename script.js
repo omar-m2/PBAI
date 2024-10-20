@@ -25,7 +25,7 @@ document.getElementById("input-textarea").addEventListener("keypress", (event) =
   }
 });
 
-// Get project breakdown using the Vercel serverless function
+// Get project breakdown using Vercel serverless function
 async function getProjectBreakdown(idea) {
   try {
     const response = await fetch('/api/ai21', {
