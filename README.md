@@ -71,14 +71,14 @@ You can check out the live version of the app here: [PBAI](https://pbai-xi.verce
 
 ## Project Structure
 
-    PBAI/
-    ├── api/
-    |   └── ai21.js
-    ├── index.html
-    ├── style.css
-    ├── script.js
-    ├── LICENSE.md
-    └── README.md
+PBAI/
+├── api/
+|   └── ai21.js
+├── index.html
+├── style.css
+├── script.js
+├── LICENSE.md
+└── README.md
 
 ## Contribution
 
